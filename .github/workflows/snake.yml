@@ -20,7 +20,7 @@ jobs:
           github_user_name: jhonzito66
           outputs: |
             dist/github-contribution-grid-snake.svg
-          snake_color: e94560
+          snake_color: "6366F1"
 
       - name: Push snake.svg to output branch
         uses: Platane/snk/output@v3

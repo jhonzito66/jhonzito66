@@ -1,12 +1,10 @@
-<!-- profile-engine · auto-generated sections marked below -->
+<!-- profile-engine · v2 -->
 <div align="center">
 
-<!-- BANNER -->
 <a href="https://github.com/jhonzito66/profile-engine">
-  <img src="https://jhonzito66.github.io/profile-engine/assets/banner.svg" width="100%" alt="João Pedro — Full Stack Engineer"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/banner.svg" width="800" alt="João Pedro — Full Stack Engineer"/>
 </a>
 
-<!-- TERMINAL -->
 <img src="https://jhonzito66.github.io/profile-engine/assets/terminal.svg" width="680" alt="Terminal profile"/>
 
 <br/><br/>
@@ -19,51 +17,59 @@
 
 </div>
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jhonzito66&show_icons=true&theme=react&hide_border=true&bg_color=0B0F19&title_color=6366F1&text_color=F9FAFB&icon_color=818CF8&include_all_commits=true&count_private=false"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonzito66&layout=compact&theme=react&hide_border=true&bg_color=0B0F19&title_color=6366F1&text_color=F9FAFB&langs_count=8"/>
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=jhonzito66&show_icons=true&theme=react&hide_border=true&bg_color=0B0F19&title_color=6366F1&text_color=F9FAFB&icon_color=818CF8&include_all_commits=true" width="100%" alt="GitHub Stats"/>
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonzito66&layout=compact&theme=react&hide_border=true&bg_color=0B0F19&title_color=6366F1&text_color=F9FAFB&langs_count=8" width="100%" alt="Top Languages"/>
+</td>
+</tr>
+</table>
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jhonzito66&theme=react&hide_border=true&background=0B0F19&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=jhonzito66&theme=react&hide_border=true&background=0B0F19&ring=6366F1&fire=818CF8&currStreakLabel=6366F1" width="100%" alt="GitHub Streak"/>
 
 </div>
 
----
+<br/>
 
 ### 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/jhonzito66/apkmyfinance">
-  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/apkmyfinance.svg" width="340" alt="APKMyFinance"/>
-</a>
-<a href="https://github.com/jhonzito66/SiteGabriela">
-  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/site-gabriela.svg" width="340" alt="Site Gabriela"/>
-</a>
-<a href="https://github.com/jhonzito66/backend">
-  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/backend.svg" width="340" alt="Backend + Frontend"/>
-</a>
-<a href="https://github.com/jhonzito66/engineering-os">
-  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/engineering-os.svg" width="340" alt="Engineering OS"/>
-</a>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/jhonzito66/apkmyfinance"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/apkmyfinance.svg" width="340" alt="APKMyFinance"/></a>
+</td>
+<td align="center">
+<a href="https://github.com/jhonzito66/SiteGabriela"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/site-gabriela.svg" width="340" alt="Site Gabriela"/></a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://github.com/jhonzito66/backend"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/backend.svg" width="340" alt="Backend + Frontend"/></a>
+</td>
+<td align="center">
+<a href="https://github.com/jhonzito66/engineering-os"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/engineering-os.svg" width="340" alt="Engineering OS"/></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,c,cpp,flutter,react,nodejs,git,github,vscode,linux&perline=8" alt="Tech Stack"/>
 
 </div>
 
 <br/>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,dart,c,cpp,flutter,react,nodejs,spring,git,github,vscode,linux&perline=8" alt="Tech Stack"/>
-
-</div>
-
----
 
 ### 🔭 Currently
 
@@ -79,21 +85,21 @@
 
 <!-- LAST_UPDATED: manual -->
 
----
+<br/>
 
 ### 📈 Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonzito66&bg_color=0B0F19&color=6366F1&line=818CF8&point=F9FAFB&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonzito66&bg_color=0B0F19&color=6366F1&line=818CF8&point=F9FAFB&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/jhonzito66/jhonzito66/output/profile-3d-contrib.svg" alt="3D Contributions" width="100%"/>
+<img src="https://raw.githubusercontent.com/jhonzito66/jhonzito66/output/profile-3d-contrib.svg" width="100%" alt="3D Contributions"/>
 
 </div>
 
----
+<br/>
 
 ### 🤝 Connect
 
@@ -110,10 +116,10 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jhonzito66/jhonzito66/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/jhonzito66/jhonzito66/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
 <!-- Powered by profile-engine: https://github.com/jhonzito66/profile-engine -->

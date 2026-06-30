@@ -1,0 +1,52 @@
+name: Generate Profile Output
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: jhonzito66
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          snake_color: "6366F1"
+
+      - name: Generate 3D contribution graph
+        uses: github-profile-3d-contrib/render@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: jhonzito66
+
+      - name: Merge outputs and push to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          mkdir -p merged
+          cp dist/github-contribution-grid-snake.svg merged/ 2>/dev/null || true
+
+          if [ -f profile-3d-contrib/profile-3d-contrib.svg ]; then
+            cp profile-3d-contrib/profile-3d-contrib.svg merged/
+          elif [ -f profile-3d-contrib.svg ]; then
+            cp profile-3d-contrib.svg merged/
+          else
+            find . -name "profile-3d-contrib.svg" -not -path "./merged/*" -exec cp {} merged/ \;
+          fi
+
+          git fetch origin output 2>/dev/null || true
+          git checkout output 2>/dev/null || git checkout --orphan output
+          cp merged/* .
+          git add github-contribution-grid-snake.svg profile-3d-contrib.svg
+          git diff --staged --quiet || git commit -m "chore: update snake and 3D contribution graphs"
+          git push origin output --force

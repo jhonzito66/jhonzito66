@@ -80,9 +80,10 @@
 | 🤝 **Open to** | Colaborações open source e projetos acadêmicos |
 
 <!-- QUOTE_START -->
+> 💡 *Make it work, make it right, make it fast. — Kent Beck*
 <!-- QUOTE_END -->
 
-<!-- LAST_UPDATED: manual -->
+<!-- LAST_UPDATED: 2026-06-30 -->
 
 <br/>
 

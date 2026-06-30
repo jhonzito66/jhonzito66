@@ -3,11 +3,11 @@
 
 <!-- BANNER -->
 <a href="https://github.com/jhonzito66/profile-engine">
-  <img src="https://raw.githubusercontent.com/jhonzito66/profile-engine/main/assets/banner.svg" width="100%" alt="João Pedro — Full Stack Engineer"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/banner.svg" width="100%" alt="João Pedro — Full Stack Engineer"/>
 </a>
 
 <!-- TERMINAL -->
-<img src="https://raw.githubusercontent.com/jhonzito66/profile-engine/main/assets/terminal.svg" width="680" alt="Terminal profile"/>
+<img src="https://jhonzito66.github.io/profile-engine/assets/terminal.svg" width="680" alt="Terminal profile"/>
 
 <br/><br/>
 
@@ -41,16 +41,16 @@
 <div align="center">
 
 <a href="https://github.com/jhonzito66/apkmyfinance">
-  <img src="https://raw.githubusercontent.com/jhonzito66/profile-engine/main/assets/cards/apkmyfinance.svg" width="340" alt="APKMyFinance"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/apkmyfinance.svg" width="340" alt="APKMyFinance"/>
 </a>
 <a href="https://github.com/jhonzito66/SiteGabriela">
-  <img src="https://raw.githubusercontent.com/jhonzito66/profile-engine/main/assets/cards/site-gabriela.svg" width="340" alt="Site Gabriela"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/site-gabriela.svg" width="340" alt="Site Gabriela"/>
 </a>
 <a href="https://github.com/jhonzito66/backend">
-  <img src="https://raw.githubusercontent.com/jhonzito66/profile-engine/main/assets/cards/backend.svg" width="340" alt="Backend + Frontend"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/backend.svg" width="340" alt="Backend + Frontend"/>
 </a>
 <a href="https://github.com/jhonzito66/engineering-os">
-  <img src="https://raw.githubusercontent.com/jhonzito66/profile-engine/main/assets/cards/engineering-os.svg" width="340" alt="Engineering OS"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/cards/engineering-os.svg" width="340" alt="Engineering OS"/>
 </a>
 
 </div>

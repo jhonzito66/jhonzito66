@@ -1,0 +1,28 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: jhonzito66
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+          snake_color: e94560
+
+      - name: Push snake.svg to output branch
+        uses: Platane/snk/output@v3
+        with:
+          dist: dist

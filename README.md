@@ -2,10 +2,10 @@
 <div align="center">
 
 <a href="https://github.com/jhonzito66/profile-engine">
-  <img src="https://jhonzito66.github.io/profile-engine/assets/banner.svg?v=4" width="800" alt="João Pedro — Full Stack Engineer"/>
+  <img src="https://jhonzito66.github.io/profile-engine/assets/banner.svg?v=5" width="800" alt="João Pedro — Full Stack Engineer"/>
 </a>
 
-<img src="https://jhonzito66.github.io/profile-engine/assets/terminal.svg?v=4" width="680" alt="Terminal profile"/>
+<img src="https://jhonzito66.github.io/profile-engine/assets/terminal.svg?v=5" width="680" alt="Terminal profile"/>
 
 <br/><br/>
 
@@ -26,18 +26,18 @@
 <table>
 <tr>
 <td align="center" valign="top">
-<a href="https://github.com/jhonzito66/apkmyfinance"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/apkmyfinance.svg?v=4" width="340" alt="APKMyFinance"/></a>
+<a href="https://github.com/jhonzito66/apkmyfinance"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/apkmyfinance.svg?v=5" width="340" alt="APKMyFinance"/></a>
 </td>
 <td align="center" valign="top">
-<a href="https://github.com/jhonzito66/SiteGabriela"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/site-gabriela.svg?v=4" width="340" alt="Site Gabriela"/></a>
+<a href="https://github.com/jhonzito66/SiteGabriela"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/site-gabriela.svg?v=5" width="340" alt="Site Gabriela"/></a>
 </td>
 </tr>
 <tr>
 <td align="center" valign="top">
-<a href="https://github.com/jhonzito66/backend"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/backend.svg?v=4" width="340" alt="Backend + Frontend"/></a>
+<a href="https://github.com/jhonzito66/backend"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/backend.svg?v=5" width="340" alt="Backend + Frontend"/></a>
 </td>
 <td align="center" valign="top">
-<a href="https://github.com/jhonzito66/engineering-os"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/engineering-os.svg?v=4" width="340" alt="Engineering OS"/></a>
+<a href="https://github.com/jhonzito66/engineering-os"><img src="https://jhonzito66.github.io/profile-engine/assets/cards/engineering-os.svg?v=5" width="340" alt="Engineering OS"/></a>
 </td>
 </tr>
 </table>
@@ -54,7 +54,7 @@
 
 <br/><br/>
 
-<img src="https://jhonzito66.github.io/profile-engine/assets/languages.svg?v=4" width="580" alt="Top Languages"/>
+<img src="https://jhonzito66.github.io/profile-engine/assets/languages.svg?v=5" width="580" alt="Top Languages"/>
 
 </div>
 

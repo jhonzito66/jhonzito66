@@ -80,10 +80,10 @@
 | 🤝 **Open to** | Colaborações open source e projetos acadêmicos |
 
 <!-- QUOTE_START -->
-> 💡 *Code is like humor. When you have to explain it, it's bad. — Cory House*
+> 💡 *Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler*
 <!-- QUOTE_END -->
 
-<!-- LAST_UPDATED: 2026-07-02 -->
+<!-- LAST_UPDATED: 2026-07-03 -->
 
 <br/>
 

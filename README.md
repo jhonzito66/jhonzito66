@@ -80,10 +80,10 @@
 | 🤝 **Open to** | Colaborações open source e projetos acadêmicos |
 
 <!-- QUOTE_START -->
-> 💡 *Any fool can write code that a computer can understand. Good programmers write code that humans can understand. — Martin Fowler*
+> 💡 *Simplicity is the soul of efficiency. — Austin Freeman*
 <!-- QUOTE_END -->
 
-<!-- LAST_UPDATED: 2026-07-03 -->
+<!-- LAST_UPDATED: 2026-07-04 -->
 
 <br/>
 

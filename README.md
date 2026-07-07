@@ -80,10 +80,10 @@
 | 🤝 **Open to** | Colaborações open source e projetos acadêmicos |
 
 <!-- QUOTE_START -->
-> 💡 *Code is like humor. When you have to explain it, it's bad. — Cory House*
+> 💡 *First, solve the problem. Then, write the code. — John Johnson*
 <!-- QUOTE_END -->
 
-<!-- LAST_UPDATED: 2026-07-06 -->
+<!-- LAST_UPDATED: 2026-07-07 -->
 
 <br/>
 

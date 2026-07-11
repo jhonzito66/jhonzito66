@@ -80,10 +80,10 @@
 | 🤝 **Open to** | Colaborações open source e projetos acadêmicos |
 
 <!-- QUOTE_START -->
-> 💡 *Make it work, make it right, make it fast. — Kent Beck*
+> 💡 *First, solve the problem. Then, write the code. — John Johnson*
 <!-- QUOTE_END -->
 
-<!-- LAST_UPDATED: 2026-07-10 -->
+<!-- LAST_UPDATED: 2026-07-11 -->
 
 <br/>
 

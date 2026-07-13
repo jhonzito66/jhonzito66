@@ -80,10 +80,10 @@
 | 🤝 **Open to** | Colaborações open source e projetos acadêmicos |
 
 <!-- QUOTE_START -->
-> 💡 *First, solve the problem. Then, write the code. — John Johnson*
+> 💡 *Simplicity is the soul of efficiency. — Austin Freeman*
 <!-- QUOTE_END -->
 
-<!-- LAST_UPDATED: 2026-07-12 -->
+<!-- LAST_UPDATED: 2026-07-13 -->
 
 <br/>
 
